@@ -1,0 +1,24 @@
+img {
+  max-height: 300px;
+  max-width: 300px;
+  object-fit: fill;
+  object-position: center;
+}
+
+.recipes {
+  margin-top: 2em;
+  list-style: none;
+}
+
+.search-field {
+  width: 100vw;
+  height: 3em;
+  text-align: center;
+}
+
+.search-button {
+  height: 2em;
+  width: 6em;
+  font-size: 20px;
+  margin: 1em;
+}
